@@ -4,7 +4,7 @@ I'm currently studying to become a FullStack Developer
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/artem-lysiak-9a4810231/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/artem-lysiak-9a4810231/) 
 
 # 💻 Tech Stack:
 
@@ -33,4 +33,3 @@ I'm currently studying to become a FullStack Developer
 [![](https://visitcount.itsvg.in/api?id=TechSorcerer&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
